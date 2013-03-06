@@ -2,8 +2,7 @@ Jekyll-link-filer
 ---
 Generates link based on filename.
 
-Use
----
-{{ folder/filename | link }}
+## Use
+<code>{{ folder/filename | link }}</code>
 
 file extension is not required.
